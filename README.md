@@ -4,6 +4,11 @@ A complete **Computer Vision pipeline** developed as part of the Deep Learning P
 
 This project progresses from classical image-processing techniques to modern deep-learning-based detection, combining **OpenCV**, **YuNet**, and **YOLOv8** in an integrated real-time computer vision pipeline.
 
+## 📌 Project Walkthrough
+
+[View Project Walkthrough](https://drive.google.com/drive/folders/1Z16hYBCSq4AtFRl37Ouryc4u1rkhTnIu?usp=drive_link)
+
+
 ---
 
 ## 📌 Project Overview
